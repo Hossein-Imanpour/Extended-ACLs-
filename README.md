@@ -1,4 +1,4 @@
-<img width="810" height="365" alt="Extended(ACLs)" src="https://github.com/user-attachments/assets/20edcc79-e573-4293-b438-5dab6b70fe3d" /># Extended-ACLs-
+
 
 # 🖧 Network Topology - Extended ACLs
 
