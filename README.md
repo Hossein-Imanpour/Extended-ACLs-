@@ -7,9 +7,9 @@
 
 ---
 
-## 📂 فایل‌ها
-- `Extended(ACLs).pkt` → فایل اصلی شبکه برای **Cisco Packet Tracer**  
-- `Extended(ACLs).png` → تصویر توپولوژی شبکه  <img width="810" height="365" alt="Extended(ACLs)" src="https://github.com/user-attachments/assets/aec578a3-8452-4c23-8778-8be391d97e12" />
+## 📂 تصویر توپولوژی شبکه
+
+-  <img width="810" height="365" alt="Extended(ACLs)" src="https://github.com/user-attachments/assets/aec578a3-8452-4c23-8778-8be391d97e12" />
 
 
 ---
