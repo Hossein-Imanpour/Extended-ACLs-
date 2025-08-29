@@ -36,8 +36,7 @@
 1. فایل `Extended(ACLs).pkt` را در نرم‌افزار **Cisco Packet Tracer** باز کنید.
 2. توپولوژی شبکه همانند تصویر زیر بارگذاری خواهد شد:  
 
-   ![Network Topology](Extended(ACLs).png)
-
+   <img width="810" height="365" alt="Extended(ACLs)" src="https://github.com/user-attachments/assets/aec578a3-8452-4c23-8778-8be391d97e12" />
 3. وارد **CLI روتر** شوید و دستورات زیر را وارد کنید.
 
 ---
